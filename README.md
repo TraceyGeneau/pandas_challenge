@@ -1,4 +1,4 @@
-# pandas_challenge
+Pandas Challenge - School Summary
 
 As the newly appointed Chief Data Scientist for our city's school district, I am thrilled to embark on the crucial task of analyzing district-wide standardized test results to inform strategic decisions on future school budgets and priorities. Armed with comprehensive data on each student's math and reading scores, along with additional school-related information, my objective is to aggregate and present key trends in school performance.
 
